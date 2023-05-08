@@ -13,7 +13,7 @@
 
 # Work Expierence
 ### First Western Trust
-#### Intern
+#### Intern&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;June 2021 - August 2021
 <ul>
   <li>Facilitated digitzation project of legacy bank records</li>
   <li>Supported loan file audit and organization efforts</li>
