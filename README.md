@@ -8,6 +8,7 @@
   <li>C++</li>
   <li>Python</li>
   <li>Microsoft Office Suite (Excel, Powerpoint, Word)</li>
+  <li>AP Computer Science A - 4</li>
 </ul>
 
 # Work Expierence
