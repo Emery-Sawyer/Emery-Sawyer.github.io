@@ -1,6 +1,13 @@
 # About Me
-#### I am a senior in high school at the Taft School
-#### and will be attending Northwestern University next year.
+#### I am Emery Sawyer. I'm From Denver Colorado, and am a senior in high school at the Taft School in Watertown Connecticut.
+#### Next Year, I will be attending Northwestern University and will be studying Electrical Engineering and Computer Science.
+### Intrests
+<dl>
+  <dt>Outdoors</dt>
+  <dd>- Living in Denver, I really enjoy doing things in the outdoors. I really like hiking, biking, camping, and snowboarding.</dd>
+  <dt>Robotics</dt>
+  <dd>- At Taft, I was part of the Robotics club, where we would participate in Vex competitions.</dd>
+</dl>
 
 # Skills
 <ul>
